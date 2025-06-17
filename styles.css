@@ -5,6 +5,16 @@ body {
     color: #ffffff;
 }
 
+#hero {
+    background-image: url("images/DancingGiph.");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+#main-logo {
+    width: 100px;
+}
+
 h1, h2, h3, h4, p {
     text-shadow: 0 0 1px black;
 }
@@ -91,15 +101,3 @@ h1, h2, h3, h4, p {
 a {
     color: white;
 }
-
-/* 
-Add the footer paragraph according to the design. 
-Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
-
-Link: 
-https://scrimba.com/learn/htmlandcss
-
-Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
-*/
